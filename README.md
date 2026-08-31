@@ -104,7 +104,7 @@ docker compose --profile logs --profile metrics --profile traces up -d
 
 ---
 
-## 🖥️ Accès aux Interfaces
+##  Accès aux Interfaces
 
 | Service | URL | Identifiants | Niveau requis |
 | --- | --- | --- | --- |
